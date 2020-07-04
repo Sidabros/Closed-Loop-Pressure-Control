@@ -1,3 +1,5 @@
+/* Mustafa Murat Akçayiğit & Ayberk Hami Bulut Bitirme Projesi'ne ilişkin kodları içerir */
+
 /* NEXTION Display Configurations */
 #include <Nextion.h>    // Main Library for Nextion TFT Display
 #include <NexNumber.h>  // Library for displaying Numerals on Nextion TFT Display
